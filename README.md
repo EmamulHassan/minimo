@@ -1,2 +1,2 @@
 # minimo
-practice day 8
+https://emamulhassan.github.io/minimo/
